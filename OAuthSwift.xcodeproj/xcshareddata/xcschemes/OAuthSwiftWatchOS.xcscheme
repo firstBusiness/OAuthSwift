@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C48B28011AFA598D00C7DEF6"
+               BlueprintIdentifier = "C40890BF1C11B37000E3146A"
                BuildableName = "OAuthSwift.framework"
-               BlueprintName = "OAuthSwiftOSX"
+               BlueprintName = "OAuthSwiftWatchOS"
                ReferencedContainer = "container:OAuthSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,29 +26,9 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      codeCoverageEnabled = "YES"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4D50DF61BFB693F0053B624"
-               BuildableName = "OAuthSwiftTests.xctest"
-               BlueprintName = "OAuthSwiftTests"
-               ReferencedContainer = "container:OAuthSwift.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C48B28011AFA598D00C7DEF6"
-            BuildableName = "OAuthSwift.framework"
-            BlueprintName = "OAuthSwiftOSX"
-            ReferencedContainer = "container:OAuthSwift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -65,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C48B28011AFA598D00C7DEF6"
+            BlueprintIdentifier = "C40890BF1C11B37000E3146A"
             BuildableName = "OAuthSwift.framework"
-            BlueprintName = "OAuthSwiftOSX"
+            BlueprintName = "OAuthSwiftWatchOS"
             ReferencedContainer = "container:OAuthSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -83,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C48B28011AFA598D00C7DEF6"
+            BlueprintIdentifier = "C40890BF1C11B37000E3146A"
             BuildableName = "OAuthSwift.framework"
-            BlueprintName = "OAuthSwiftOSX"
+            BlueprintName = "OAuthSwiftWatchOS"
             ReferencedContainer = "container:OAuthSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
